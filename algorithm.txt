@@ -1,0 +1,28 @@
+## This is the file that talks about a list of algorithms that are useful
+## for Neuromorphic Computing
+## @Author Son Vu
+## @date 01-21-2025
+
+SUPERLINK: https://github.com/mikeroyal/Neuromorphic-Computing-Guide#developer-resources
+
+1. Fuzzy Logic
+This is a heuristic approach that allows decision-tree processing
+Paper link: https://www.researchgate.net/figure/Architecture-of-a-fuzzy-logic-system_fig2_309452475
+
+2. Support Vector Machine
+
+3. Neural Networks
+Link: https://www.ibm.com/think/topics/neural-networks
+
+4. Convolutional Neural Networks 
+Link: https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks
+
+5. Recurrent Neural Networks
+https://www.ibm.com/think/topics/recurrent-neural-networks
+
+6. Multilayer Perceptrons
+https://deepai.org/machine-learning-glossary-and-terms/multilayer-perceptron
+
+7. Random Forests
+https://www.ibm.com/think/topics/random-forest
+
